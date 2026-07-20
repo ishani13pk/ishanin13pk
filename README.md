@@ -7,5 +7,3 @@
 ## My skills
 Arduino and Arduino coding
 
-## Connect with me
-Email: (mail to: ishani13pk@gmail.com)
