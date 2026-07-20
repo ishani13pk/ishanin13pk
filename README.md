@@ -1,6 +1,6 @@
 # Hi, i'm ishani
 ## About me
-- Grade 9 at Deep Run HS
+- Grade 9 and a proud wildcat
 - Learning vibe code
 - Loves Arduino
 
